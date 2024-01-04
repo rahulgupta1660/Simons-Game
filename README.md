@@ -24,7 +24,7 @@
 <p>Clone the repository and open the index.html file in your preferred web browser.</p>
 
 git clone https://github.com/rahulgupta1660/Simons-Game.git
-cd simon-game
+cd Simons-game
 
 <h3>Contribution :</h3>
 
