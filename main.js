@@ -17,7 +17,6 @@ document.addEventListener("keypress", () => {
     started = true;
     reset();
     btnEnabled();
-    levelUp();
   }
 });
 
